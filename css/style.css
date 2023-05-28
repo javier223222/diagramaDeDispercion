@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:ital,wght@1,300&display=swap');
+.dot{
+    stroke: #000;
+    opacity: 0.8;
+    
+}
+.pp{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+background-color: #A93EED;
+}
+#title{
+    padding-top: -100px;
+}
